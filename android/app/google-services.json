@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "406382348711",
+    "project_id": "silaper-korang",
+    "storage_bucket": "silaper-korang.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406382348711:android:278aedd73ec53e12e3ce82",
+        "android_client_info": {
+          "package_name": "id.nesd.silaper_korang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406382348711-nkigeds123focne7qsisnbkk97s170gb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.nesd.silaper_korang",
+            "certificate_hash": "ca718e718cb501af1e2dd973a9b130f8386cfab1"
+          }
+        },
+        {
+          "client_id": "406382348711-kdtniqdmg80l86e81af720ffq6l0fe9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv5V68YL6ueLLPSmaMrfywd7nCp7WCSMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406382348711-kdtniqdmg80l86e81af720ffq6l0fe9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
